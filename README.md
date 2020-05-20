@@ -1,1 +1,2 @@
-# Tugas-Grafika-Komputer-1
+Ryan R. Siematauw
+672018096
